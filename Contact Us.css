@@ -1,0 +1,50 @@
+/*background color*/
+body{background-color:#712982;}
+
+/*heading styling*/
+h1{
+text-align:center;
+color:white;
+padding-top:20px;} /*makes gap between header and top of page*/
+
+/*button styling*/
+h2#Button{
+text-align:center;
+vertical-align:middle;
+font-size:16px;
+border: 5px solid hsla(50, 100%, 50%, .9);
+background-color: #712982;
+border-radius: 15%;
+width:200px;
+height:44px;
+padding-top: 24px;
+margin:auto;}
+
+/*contact information styling*/
+p{
+text-align:center;
+color:white;}
+
+/*text within button styling*/
+div.button{
+background-color:hsla(60, 100%, 50%, 0.5);
+height:200px;
+width:250px;
+border: 5px solid hsla(50, 100%, 50%, .9);
+text-align:center;
+margin:auto;
+margin-top:40px}
+
+/*keeps links blue*/
+a:link {
+color:white;
+text-decoration: none;}
+a:visited {
+color:white;
+text-decoration: none;}
+a:hover {
+color:white;
+text-decoration: none;}
+a:active {
+color:white;
+text-decoration: none;}
