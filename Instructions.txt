@@ -1,0 +1,18 @@
+Wauconda Doghouse Mobile App Instructions
+
+The app consists of multiple differentiated sections on the screen's left border upon opening. The overview tab is what immediately displays when the app is opened. Navigation between tabs is as simple as clicking on the desired one.
+
+Overview Tab: This consists of an image of the Wauconda High School, Bell Schedule, and Map Layout. The school and bell schedule images both include embedded links that, when clicked, will bring you to the school website or the bell schedule depending on the selected one.
+
+What’s New Tab: This consists of news throughout the school which is either published by the newspaper or submitted by the students through a link. The link to submit forms is found within the daily announcements (top post) on the What’s New page. Posts that are located underneath the Daily Announcements are found in the school newspaper or submitted by people who have something to share. Posts below the daily announcements will also be selectable if they have additional information that needs to be displayed (articles, quotes, etc).
+
+Calendar: This section of the app is where you should look for any up and coming events at Wauconda High School. All tabs within this section are clickable, allowing them to expand and show more information about sports, activities, and clubs. There is also a google maps feature within these sections which when clicked brings you the directions to Wauconda High School.
+
+Tickets: This section allows easy access to purchasing event tickets with a simple image and link guiding you to the GoFan app.
+
+Social Media: This section has accessible buttons to bring you to a variety of facets within the school's social technological space. 
+
+Contact Us: This section provides a clear way of contacting support through prompted email, phone number, helpdesk, and support tickets.
+
+Settings: This section includes credits, application recommendations, distance measurements for the google map integration, and flush cache. Credits lead to a list of developers on the app. Application recommendation allows a user to send the app to someone else. Distance measurements change the measurements on the google map integration. The flush cache gets rid of stale data slowing down the app and re-downloads a fresh version of the app.
+
